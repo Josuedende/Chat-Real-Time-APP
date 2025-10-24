@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Real-Time Chat",
+  "description": "A real-time chat application that enables multiple users to communicate instantly across different chat rooms. This frontend-only version simulates real-time communication and features a beautiful, responsive gradient UI design.",
+  "requestFramePermissions": []
+}
